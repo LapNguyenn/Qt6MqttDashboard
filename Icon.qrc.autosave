@@ -1,0 +1,4 @@
+<RCC>
+    <qresource prefix="/home/lap/qt6-project/MqttControlWidget/Assest/icon"/>
+    <qresource prefix="/new/prefix1"/>
+</RCC>
